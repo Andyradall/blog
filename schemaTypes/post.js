@@ -1,7 +1,5 @@
 import { defineField, defineType } from 'sanity'
 
-import { defineField, defineType } from 'sanity'
-
 export default defineType({
   name: 'post',
   title: 'Post',
@@ -81,4 +79,3 @@ export default defineType({
     },
   },
 })
-
